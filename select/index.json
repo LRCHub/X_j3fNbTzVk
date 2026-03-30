@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "First Rate Town",
+  "base_artist": "Good Kid",
+  "createdAt": "2026-03-30T03:49:36.535965Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "First Rate Town",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/01_First_Rate_Town_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Kid - First Rate Town (Official Audio)",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/02_Good_Kid_-_First_Rate_Town_(Official_Audio)_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "First Rate Town (WAV)",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/03_First_Rate_Town_(WAV)_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "First Rate Town  (Instrumental)",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/04_First_Rate_Town_(Instrumental)_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "First Rate Town",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/05_First_Rate_Town_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Kid - First Rate Town (Official Audio)",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/06_Good_Kid_-_First_Rate_Town_(Official_Audio)_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "First Rate Town (Mastered)",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/07_First_Rate_Town_(Mastered)_Good_Kid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "First Rate Town INST",
+      "artist": "Good Kid",
+      "has_synced": true,
+      "path": "select/08_First_Rate_Town_INST_Good_Kid.lrc"
+    }
+  ]
+}
